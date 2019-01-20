@@ -25,6 +25,6 @@ if (len(password) >= 8):
     elif (num == True):
         print('Good password. Access granted')
 else:
-    print('Password must have 8 or more characteres.')
+    print('Password must have 8 or more characters.')
 
 
